@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edivaldolluisb
 - 👀 I’m interested in .web develop..
-- 🌱 I’m currently learning .javaScript..
+- 🌱 I’m currently learning .javaScript & Django..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... edivaldoluisb16@gmail.com
 
