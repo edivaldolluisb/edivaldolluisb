@@ -1,4 +1,4 @@
-# Edivaldo Bonfim#
+# Edivaldo Bonfim
 
 🌱Enthusiast of the best web & software development technologies. 
 Interested in the entire frontend spectrum and working on amazing 👀projects with great and positive people.
